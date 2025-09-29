@@ -1,2 +1,2 @@
-# 12-pataky-project
-projekt weblap
+# céges weblap
+órai feladat
